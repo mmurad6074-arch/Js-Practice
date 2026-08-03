@@ -1,0 +1,21 @@
+let name = "Murad";
+let age = 20;
+let city = "Lahore";
+let country = "Pakistan";
+let hobby = "Coding";
+let dreamJob = "Army officer";
+let favouriteSubject = "JavaScript";
+let phone = "iPhone";
+let village = "Arrora jagir";
+let favouriteGame = "Cricket";
+
+console.log(name);
+console.log(age);
+console.log(city);
+console.log(country);
+console.log(hobby);
+console.log(dreamJob);
+console.log(favouriteSubject);
+console.log(phone);
+console.log(village);
+console.log(favouriteGame);
