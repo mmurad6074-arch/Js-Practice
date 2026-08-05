@@ -1,7 +1,8 @@
-let name = "Murad";
 let age = 22;
-let city = "Lahore";
 
-console.log("My Name is:", name);
-console.log("My Age is:", age);
-console.log("I Live in:", city);
+if (age >= 18) {
+    console.log("You can vote.");
+} else {
+    console.log("You cannot vote.");
+}
+
