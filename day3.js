@@ -1,8 +1,8 @@
-let age = 22;
+let num1 = 15;
+let num2 = 25;
 
-if (age >= 18) {
-    console.log("You can vote.");
-} else {
-    console.log("You cannot vote.");
-}
+let sum = num1 + num2;
 
+console.log("Number 1:", num1);
+console.log("Number 2:", num2);
+console.log("Sum:", sum);
